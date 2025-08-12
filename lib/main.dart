@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:power_gruas/config/router/app_router.dart';
 import 'package:power_gruas/config/theme/app_theme.dart';
-import 'firebase_options.dart'; // Archivo generado por flutterfire configure
+import 'firebase_options.dart'; // Archivo generado por flutterfire configure Cambio
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
