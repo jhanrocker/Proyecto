@@ -1,0 +1,94 @@
+
+C:\USERS\JHAN-PC\POWER_GRUAS\LIB
+¦   firebase_options.dart
+¦   main.dart
+¦   
++---config
+¦   +---constants
+¦   ¦       app_constants.dart
+¦   ¦       
+¦   +---router
+¦   ¦       app_router.dart
+¦   ¦       
+¦   +---theme
+¦           app_theme.dart
+¦           
++---data
+¦   +---datasources
+¦   ¦       auth_remote_datasource.dart
+¦   ¦       firestore_datasource.dart
+¦   ¦       maps_datasource.dart
+¦   ¦       storage_datasource.dart
+¦   ¦       
+¦   +---models
+¦   ¦       bank_model.dart
+¦   ¦       bank_model.freezed.dart
+¦   ¦       bank_model.g.dart
+¦   ¦       company_info_model.dart
+¦   ¦       company_info_model.freezed.dart
+¦   ¦       company_info_model.g.dart
+¦   ¦       directions_model.dart
+¦   ¦       directions_model.freezed.dart
+¦   ¦       firestore_converters.dart
+¦   ¦       fleet_model.dart
+¦   ¦       fleet_model.freezed.dart
+¦   ¦       fleet_model.g.dart
+¦   ¦       service_model.dart
+¦   ¦       service_model.freezed.dart
+¦   ¦       service_model.g.dart
+¦   ¦       service_rate_model.dart
+¦   ¦       service_rate_model.freezed.dart
+¦   ¦       service_rate_model.g.dart
+¦   ¦       service_request_model.dart
+¦   ¦       service_request_model.freezed.dart
+¦   ¦       service_request_model.g.dart
+¦   ¦       user_model.dart
+¦   ¦       user_model.freezed.dart
+¦   ¦       user_model.g.dart
+¦   ¦       vehicle_model.dart
+¦   ¦       vehicle_model.freezed.dart
+¦   ¦       vehicle_model.g.dart
+¦   ¦       
+¦   +---repositories
+¦           auth_repository_impl.dart
+¦           user_repository_impl.dart
+¦           
++---domain
+¦   +---repositories
+¦           auth_repository.dart
+¦           user_repository.dart
+¦           
++---presentation
+    +---providers
+    ¦   +---auth
+    ¦           auth_controller.dart
+    ¦           auth_controller.g.dart
+    ¦           auth_provider.dart
+    ¦           auth_provider.g.dart
+    ¦           
+    +---screens
+    ¦   +---auth
+    ¦   ¦       auth_gate.dart
+    ¦   ¦       login_screen.dart
+    ¦   ¦       register_screen.dart
+    ¦   ¦       
+    ¦   +---common
+    ¦   ¦       home_screen.dart
+    ¦   ¦       main_screen.dart
+    ¦   ¦       profile_screen.dart
+    ¦   ¦       
+    ¦   +---services
+    ¦           my_services_screen.dart
+    ¦           request_service_screen.dart
+    ¦           
+    +---widgets
+        +---cards
+        ¦       menu_card.dart
+        ¦       
+        +---common
+                app_drawer.dart
+                custom_app_bar.dart
+                custom_button.dart
+                custom_text_field.dart
+                shake_widget.dart
+                
