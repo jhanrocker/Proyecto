@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignorar archivos sensibles y de configuración local
+firestore.indexes.json
+serviceAccountKey.json
